@@ -5,8 +5,9 @@ import (
 	"slices"
 	"testing"
 
-	command "github.com/gloo-foo/cmd-yes"
 	gloo "github.com/gloo-foo/framework"
+
+	command "github.com/gloo-foo/cmd-yes"
 )
 
 // collect drains a bounded Source into its emitted lines.

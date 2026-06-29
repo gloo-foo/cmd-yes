@@ -1,8 +1,9 @@
 package yes_test
 
 import (
-	command "github.com/gloo-foo/cmd-yes"
 	"github.com/gloo-foo/framework/patterns"
+
+	command "github.com/gloo-foo/cmd-yes"
 )
 
 func ExampleYes_text() {
